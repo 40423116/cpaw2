@@ -663,21 +663,9 @@ for i in range(roll_number):
 &lt;iframe src="40423116_cp_w7_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40423116_cp_w7_p.html" target="_blank"&gt;作業七投影片&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src="40423116_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="40423116_cp_w8_p.html" target="_blank"&gt;作業八投影片&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bAq4XbE2gA8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nwClSBuTXrQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/l8NC5nne0j0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G-yclEFBGnY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aBszY3Wa-Ho" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w4OewLMeE58" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BmKTJj-47Ps" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UjIrVDLYpgQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;for 迴圈應用:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;for i in range(7,-1,-1):
+    print(i*&amp;quot;*&amp;quot;)
+for i in range(8):
+    print(i*&amp;quot;*&amp;quot;)
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
